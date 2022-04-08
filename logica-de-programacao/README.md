@@ -1,0 +1,28 @@
+# Lógica de programação ⏳
+
+- [x] S1 - Lógica de programação I: Os primeiros programas com **Javascript** e **HTML**
+  - Comece a programar hoje
+    - [Primeiro teste](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/1-logica-de-programacao-i/1-comece-a-programar-hoje/ex01-primeiro-teste/index.html)
+  - Comunique-se com o usuário
+    - [Calculando meus gastos](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/1-logica-de-programacao-i/2-comunique-se-com-o-usuario/ex01-calculando-meu-gasto/index.html)
+    - [Porcentagem de acerto na prova](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/1-logica-de-programacao-i/2-comunique-se-com-o-usuario/ex02-porcentagem-de-acerto-na-prova/)
+  - Torne seu programa dinâmico com variáveis
+    - [Média das idades das filhas](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/1-logica-de-programacao-i/3-torne-seu-programa-dinamico-com-variaveis/ex01-media-idades-das-filhas/index.html)
+    - [Álcool ou gasolina?](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/1-logica-de-programacao-i/3-torne-seu-programa-dinamico-com-variaveis/ex02-alcool-ou-gasolina/index.html)
+  - Crie suas próprias funcionalidades
+    - [A idade do meu irmão](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/1-logica-de-programacao-i/4-crie-suas-proprias-funcionalidades/ex01-idade-meu-irmao/index.html)
+    - [O problema das gerações](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/1-logica-de-programacao-i/4-crie-suas-proprias-funcionalidades/ex02-problema-geracoes/index.html)
+  - Pratique resolvendo problemas do seu dia a dia
+    - [Calculadora de IMC](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/1-logica-de-programacao-i/5-pratique-resolvendo-problemas-do-seu-cotidiano/ex01-imc/index.html)
+  - Execute códigos diferentes dependendo da condição
+    - [Será que posso dirigir?](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/1-logica-de-programacao-i/6-execute-codigos-diferentes-dependendo-da-condicao/ex01-posso-dirigir/index.html)
+    - [Jogo de adivinhação](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/1-logica-de-programacao-i/6-execute-codigos-diferentes-dependendo-da-condicao/ex02-jogo-adivinhacao/index.html)
+  - Repita tarefas
+    - [Todos os números pares de 1 a 100](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/1-logica-de-programacao-i/7-repita-tarefas/ex01-numeros-pares-1-100/index.html)
+    - [Todos os números entre 30 a 40, exceto 33 e 37!](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/1-logica-de-programacao-i/7-repita-tarefas/ex02-numeros-30-40-exceto-33-37/index.html)
+    - [Todos os números de 20 a 0](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/1-logica-de-programacao-i/7-repita-tarefas/ex03-numeros-20-0/index.html)
+  - Interaja de maneira diferente com o usuário
+    - [Jogo de adivinhação melhorado](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/1-logica-de-programacao-i/8-interaja-de-maneira-diferente-com-o-usuario/ex01-jogo-de-adivinhacao-melhorado/index.html)
+  - Trabalhe com muitos dados
+    - [Jogo de adivinhação com vários segredos](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/1-logica-de-programacao-i/9-trabalhe-com-muitos-dados/ex01-jogo-adivinhacao-varios-segredos/index.html)
+    - [Não existe ingrediente repetido aqui!](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/1-logica-de-programacao-i/9-trabalhe-com-muitos-dados/ex02-nao-existe-ingrediente-repetido/index.html)
