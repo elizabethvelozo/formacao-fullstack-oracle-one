@@ -4,7 +4,7 @@ Atividades da Formação Oracle One - Alura, desenvolvidas por [mim](https://www
 
 ## Lógica de Programação ⏳
 
-- [ ] S1 - Lógica de programação I: Os primeiros programas com Javascript e HTML
+- [x] S1 - Lógica de programação I: Os primeiros programas com Javascript e HTML
 - [ ] S2 - Lógica de programação II: pratique com desenhos, animações e um jogo
 - [ ] S3 - HTML5 e CSS3 parte 1: a primeira página da Web
 - [ ] S4 - HTML5 e CSS3 parte 2: posicionamento, listas e navegação
