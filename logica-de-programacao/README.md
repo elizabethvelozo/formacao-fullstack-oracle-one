@@ -19,7 +19,7 @@
     - [Jogo de adivinhação](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/1-logica-de-programacao-i/6-execute-codigos-diferentes-dependendo-da-condicao/ex02-jogo-adivinhacao/index.html)
   - Repita tarefas
     - [Todos os números pares de 1 a 100](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/1-logica-de-programacao-i/7-repita-tarefas/ex01-numeros-pares-1-100/index.html)
-    - [Todos os números entre 30 a 40, exceto 33 e 37!](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/1-logica-de-programacao-i/7-repita-tarefas/ex02-numeros-30-40-exceto-33-37/index.html)
+    - [Todos os números entre 30 a 40, exceto 33 e 37!](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/1-logica-de-programacao-i/7-repita-tarefas/ex02-numeros-30-40-exceto-33-37/index.html)
     - [Todos os números de 20 a 0](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/1-logica-de-programacao-i/7-repita-tarefas/ex03-numeros-20-0/index.html)
   - Interaja de maneira diferente com o usuário
     - [Jogo de adivinhação melhorado](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/1-logica-de-programacao-i/8-interaja-de-maneira-diferente-com-o-usuario/ex01-jogo-de-adivinhacao-melhorado/index.html)
