@@ -26,3 +26,29 @@
   - Trabalhe com muitos dados
     - [Jogo de adivinhação com vários segredos](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/1-logica-de-programacao-i/9-trabalhe-com-muitos-dados/ex01-jogo-adivinhacao-varios-segredos/index.html)
     - [Não existe ingrediente repetido aqui!](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/1-logica-de-programacao-i/9-trabalhe-com-muitos-dados/ex02-nao-existe-ingrediente-repetido/index.html)
+- [x] S2 - Lógica de programação II: pratique com desenhos, animações e um jogo
+  - Desenhando gráficos com canvas
+    - [A cara do Creeper](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/10-desenhando-graficos-com-canvas/ex01-cara-creeper/index.html)
+    - [Esquadro](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/10-desenhando-graficos-com-canvas/ex02-esquadro/index.html)
+    - [Ordem e Progresso](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/10-desenhando-graficos-com-canvas/ex03-ordem-progresso/index.html)
+  - Extraindo funções
+    - [Uma inofensiva flor...](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/11-extraindo-funcoes/ex01-inofensiva-flor/index.html)
+    - [Frações](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/11-extraindo-funcoes/ex02-fracoes/index.html) :star:
+    - [Gráfico de Barras](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/11-extraindo-funcoes/ex03-grafico-barras/index.html)
+    - [Esquadro #2](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/11-extraindo-funcoes/ex04-esquadro-2/index.html)
+  - Interagindo com o usuário
+    - [Trocando de cor](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/12-interagindo-com-o-usuario/ex01-trocando-cor/index.html) :star:
+    - [Era uma vez uma bolinha que virou um bolão!](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/12-interagindo-com-o-usuario/ex02-bolinha-virou-bolao/index.html)
+    - [Era uma vez um bolão que quase explodiu!](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/12-interagindo-com-o-usuario/ex03-bolao-quase-explodiu/index.html)
+    - [O bolão que deseja emagrecer!](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/12-interagindo-com-o-usuario/ex04-bolao-deseja-emagrecer/index.html)
+    - [Desenhando com o mouse](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/12-interagindo-com-o-usuario/ex05-desenhando-com-mouse/index.html) :star:
+    - [Desenhando com o mouse com infinitas cores](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/12-interagindo-com-o-usuario/ex06-desenhando-com-infinitas-cores/index.html)
+    - [Acertando o alvo](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/12-interagindo-com-o-usuario/ex07-acertando-alvo/index.html)
+  - Movendo elementos: animações simples
+    - [Tudo que vai volta!](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/13-movendo-elementos-animacoes-simples/ex01-tudo-que-vai-volta/index.html)
+    - [O pulso ainda pulsa...](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/13-movendo-elementos-animacoes-simples/ex02-pulso-ainda-pulsa/index.html)
+    - [Movendo a bolinha pelo teclado](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/13-movendo-elementos-animacoes-simples/ex03-bolinha-pelo-teclado/index.html) :star:
+    - [Trocando bandeiras](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/13-movendo-elementos-animacoes-simples/ex04-trocando-bandeiras/index.html)
+  - Nosso primeiro jogo
+    - [Implemente seu primeiro jogo](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/14-nosso-primeiro-jogo/ex01-implemente-primeiro-jogo/index.html) :dart: :star:
+    - [Desenhe obras de arte](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/14-nosso-primeiro-jogo/ex02-desenhe-obras-arte/index.html) :art: :star:
