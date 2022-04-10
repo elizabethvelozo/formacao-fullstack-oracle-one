@@ -1,0 +1,131 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+:root {
+    /* CORES */
+    --prata: #c0c0c0;
+    --marrom: #a52a2a;
+    --marrom-transparente: #a52a2a3d;
+
+    /* TAMANHOS DE FONTES */
+    --tamanho-logo-titulo: 3em;
+    --tamanho-logo-subtitulo: 1em;
+    --tamanho-titulo-secundario: 1.5em;
+
+    /* TAMANHOS DE IMAGENS */
+    --tamanho-logo-imagem: 5.9em;
+}
+
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* HEADER */
+.logo {
+    display: flex;
+    justify-content: center;
+    padding-block: 4.5vh;
+    box-shadow: 1px 1px 1px 1px var(--prata);
+}
+
+.logo-imagem {
+    width: var(--tamanho-logo-imagem);
+}
+
+.logo-imagem img {
+    mix-blend-mode: darken;
+    width: 100%;
+}
+
+h1 {
+    color: var(--marrom);
+    font-family: 'Spectral SC', serif;
+    font-size: var(--tamanho-logo-titulo);
+    font-weight: normal;
+}
+
+.logo-texto p {
+    font-size: var(--tamanho-logo-subtitulo);
+    line-height: 0em;
+    padding-left: 0.5em;
+}
+
+.capa {
+    background-color: var(--marrom-transparente);
+    height: 25vh;
+    width: 100vw;
+}
+
+.capa img {
+    mix-blend-mode: multiply;
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+/* FIM DA HEADER */
+
+/* MAIN */
+h2 {
+    color: var(--marrom);
+    font-size: var(--tamanho-titulo-secundario);
+    margin-bottom: 0.5em;
+    text-align: center;
+}
+
+section {
+    display: grid;
+    gap: 1em;
+    padding: 6vh 5vw;
+    place-content: center;
+}
+
+/* SEÇÃO SOBRE */
+#sobre {
+    text-align: justify;
+}
+
+cite {
+    font-weight: bolder;
+}
+
+/* SEÇÃO BENEFÍCIOS */
+#beneficios {
+    background-color: var(--marrom-transparente);
+}
+
+.beneficios-corpo {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    justify-content: center;
+}
+
+.beneficios-texto ul {
+    padding-inline: 10vw 5vw;
+}
+
+.beneficios-texto ul li {
+    margin-bottom: 0.3em;
+}
+
+.beneficios-imagem {
+    width: 100vw;
+}
+
+.beneficios-imagem img {
+    max-width: 100%;
+    width: 100%;
+}
+/* FIM DA MAIN */
+
+/* FOOTER */
+footer {
+    color: var(--marrom-transparente);
+    padding: 1em;
+    text-align: center;
+}
+/* FIM DA FOOTER */
