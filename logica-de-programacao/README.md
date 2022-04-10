@@ -52,3 +52,6 @@
   - Nosso primeiro jogo
     - [Implemente seu primeiro jogo](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/14-nosso-primeiro-jogo/ex01-implemente-primeiro-jogo/index.html) :dart: :star:
     - [Desenhe obras de arte](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/14-nosso-primeiro-jogo/ex02-desenhe-obras-arte/index.html) :art: :star:
+  - [x] S3 - HTML5 e CSS3 parte 1: a primeira página da Web
+    - A primeira página da web
+      - [Página de salão de beleza](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/3-html5-e-css3-parte-i/ex01-pagina-salao-de-beleza/index.html)
