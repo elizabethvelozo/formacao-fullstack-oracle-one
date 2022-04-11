@@ -1,0 +1,61 @@
+.cabecalho {
+    box-shadow: 1px 1px 1px 1px var(--prata);
+    display: flex;
+    flex-direction: column;
+    gap: 2.5em;
+    padding-block: 4.5vh 2vh;
+}
+
+.logo {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.logo-imagem {
+    width: var(--tamanho-logo-imagem);
+}
+
+.logo-imagem img {
+    mix-blend-mode: darken;
+    width: 100%;
+}
+
+h1 {
+    color: var(--marrom);
+    font-family: 'Spectral SC', serif;
+    font-size: var(--tamanho-titulo-principal);
+    font-weight: normal;
+}
+
+.logo-texto p {
+    font-size: var(--tamanho-logo-subtitulo);
+    padding-left: 0.5em;
+    position: relative;
+    bottom: 0.5em;
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* BREAKPOINT TABLET */
+@media screen and (min-width: 690px) {
+    .cabecalho {
+        align-items: center;
+        flex-direction: row;
+        padding-block: 2.5vh;
+        padding-inline: 5vw;
+    }
+
+    nav {
+        gap: 4.5vw;
+        margin-left: auto;
+        padding-right: 2em;;
+    }
+
+    .logo {
+        justify-content: start;
+    }
+}
