@@ -2,13 +2,13 @@
 
 Atividades da Formação Oracle One - Alura, desenvolvidas por [mim](https://www.linkedin.com/in/elizabethvelozo) durante minha jornada no programa. :dart:
 
-## Lógica de Programação ⏳
+## [Lógica de Programação](https://github.com/elizabethvelozo/formacao-fullstack-oracle-one/tree/main/logica-de-programacao) ⏳
 
 - [x] S1 - Lógica de programação I: Os primeiros programas com Javascript e HTML
 - [x] S2 - Lógica de programação II: pratique com desenhos, animações e um jogo
 - [x] S3 - HTML5 e CSS3 parte 1: a primeira página da Web
 - [x] S4 - HTML5 e CSS3 parte 2: posicionamento, listas e navegação
-- [ ] S5 - JavaScript: programando na linguagem da web
+- [ ] S5 - Javascript: programando na linguagem da web
 
 ## Front-end 🔜
 
