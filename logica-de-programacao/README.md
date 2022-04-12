@@ -52,9 +52,16 @@
   - Nosso primeiro jogo
     - [Implemente seu primeiro jogo](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/14-nosso-primeiro-jogo/ex01-implemente-primeiro-jogo/index.html) :dart: :star:
     - [Desenhe obras de arte](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/14-nosso-primeiro-jogo/ex02-desenhe-obras-arte/index.html) :art: :star:
-- [x] S3 - HTML5 e CSS3 parte 1: a primeira página da Web
+- [x] S3 - **HTML5** e **CSS3** parte 1: a primeira página da Web
   - A primeira página da web
     - [Página de salão de beleza](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/3-html5-e-css3-parte-i/ex01-pagina-salao-de-beleza/index.html)
-- [x] S4 - HTML5 e CSS3 parte 2: posicionamento, listas e navegação
+- [x] S4 - **HTML5** e **CSS3** parte 2: posicionamento, listas e navegação
   - Posicionamento, listas e navegação
     - [Página de salão de beleza - versão 2](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/4-html5-e-css3-parte-ii/ex01-pagina-salao-de-beleza/index.html) :haircut_woman: :star:
+- [ ] S5 - **Javascript**: programando na linguagem da web
+  - Introdução
+    - [O primeiro Javascript](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/5-javascript/1-introducao/ex01-primeiro-javascript/index.html)
+  - Variáveis
+    - [Validando os dados do usuário](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/5-javascript/2-variaveis-e-operadores/ex01-validando-dados-usuario/index.html)
+  - Arrays, loop e estilos
+    - [Melhorando a visualização do erro](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/5-javascript/3-arrays-loop-estilos/ex01-melhorando-visualizacao-erro/index.html)
