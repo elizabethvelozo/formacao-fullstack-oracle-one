@@ -1,0 +1,111 @@
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    background-color: #c0c0c027;
+    border-bottom: 1px solid #c0c0c0;
+    padding-block: 1.5em;
+}
+
+.logo {
+    align-items: center;
+    display: flex;
+    gap: 0.7em;
+    justify-content: center;
+}
+
+.logo-img {
+    width: 2.7em;
+}
+
+.logo-img img {
+    width: 100%;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h1, h2, th {
+    font-weight: bold;
+}
+
+/* MAIN */
+main {
+    padding-inline: 2.5vw;
+}
+
+h2 {
+    border-bottom: 1px solid #c0c0c0;
+    font-size: 1.5em;
+    margin-bottom: 0.7em;
+    padding-block: 1.3em;
+}
+
+table {
+    table-layout: fixed;
+    text-align: center;
+    width: 100%;
+}
+
+th, td {
+    display: table-cell;
+    border: 1px solid #c0c0c0;
+    padding: 0.3em;
+    vertical-align: middle;
+}
+
+th, tr:nth-child(2n) {
+    background-color: #c0c0c027;
+}
+
+/* BREAKPOINT TABLET */
+@media screen and (min-width: 690px) {
+    body {
+        font-size: 1.15em;
+    }
+
+    .logo {
+        justify-content: start;
+        padding-left: 1em;
+    }
+
+    main {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding-inline: 3vw;
+    }
+
+    th, td {
+        padding: 0.5em;
+    }
+}
+
+/* BREAKPOINT DESKTOP */
+@media screen and (min-width: 1100px) {
+    body {
+        font-size: 1.2em;
+    }
+
+    .logo {
+        padding-left: 15vw;
+    }
+
+    main {
+        padding-inline: 15vw;
+    }
+}
+
+/* BREAKPOINT DESKTOP */
+@media screen and (min-width: 1600px) {
+    body {
+        font-size: 1.25em;
+    }
+}
