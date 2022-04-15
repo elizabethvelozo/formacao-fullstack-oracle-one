@@ -76,6 +76,49 @@ th, tr:nth-child(2n) {
 	background-color: #ffa500;
 }
 /* FIM DAS CLASSES JS */
+
+/* FORM */
+.infos-novo-paciente {
+    padding-inline: 1em;
+}
+
+.infos-novo-paciente > * {
+    margin-bottom: 1em;
+}
+
+.numeros-novo-paciente {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+label {
+    display: flex;
+    flex-direction: column;
+}
+
+label input {
+    margin-top: 0.3em;
+}
+
+label input, .botao-adicionar {
+    border: 1px solid #c0c0c0;
+    padding: 0.3em;
+}
+
+.botao-adicionar {
+    color: #ffffff;
+    background-color: #7b68ee;
+    border-radius: 0;
+    margin-top: 1em;
+    padding: 0.5em 1.5em;
+}
+
+.botao-adicionar:hover {
+    background-color: #543ae9;
+    box-shadow: 1px 1px #c0c0c0, -1px -1px #c0c0c0;
+}
+/* FIM DA FORM */
 /* FIM DA MAIN */
 
 /* BREAKPOINT TABLET */
@@ -96,8 +139,25 @@ th, tr:nth-child(2n) {
         padding-inline: 3vw;
     }
 
-    th, td {
+    th, td, label input, .botao-adicionar {
         padding: 0.5em;
+    }
+
+    .infos-novo-paciente {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .numeros-novo-paciente {
+        flex-direction: row;
+    }
+
+    .numeros-novo-paciente label {
+        width: 33%;
+    }
+
+    .botao-adicionar, input {
+        font-size: 0.75em;
     }
 }
 
@@ -113,6 +173,18 @@ th, tr:nth-child(2n) {
 
     main {
         padding-inline: 15vw;
+    }
+
+    .infos-novo-paciente {
+        padding-inline: 2em;
+    }
+
+    .botao-adicionar {
+        width: 32.1%;
+    }
+
+    .botao-adicionar, input {
+        font-size: 0.9em;
     }
 }
 

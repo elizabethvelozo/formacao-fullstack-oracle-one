@@ -17,6 +17,7 @@ function verificaIMCPaciente(paciente) {
     return calculaIMC(pesoPaciente, alturaPaciente);
 }
 
+
 var tituloPrincipal = window.document.querySelector(".titulo-principal");
 tituloPrincipal.textContent = "Tathi Nutricionista";
 

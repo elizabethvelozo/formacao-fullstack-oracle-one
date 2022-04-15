@@ -7,6 +7,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+/* HEADER */
 header {
     background-color: #c0c0c027;
     border-bottom: 1px solid #c0c0c0;
@@ -31,6 +32,7 @@ header {
 h1 {
     font-size: 2em;
 }
+/* FIM DA HEADER */
 
 h1, h2, th {
     font-weight: bold;
@@ -64,6 +66,7 @@ th, td {
 th, tr:nth-child(2n) {
     background-color: #c0c0c027;
 }
+/* FIM DA MAIN */
 
 /* BREAKPOINT TABLET */
 @media screen and (min-width: 690px) {
