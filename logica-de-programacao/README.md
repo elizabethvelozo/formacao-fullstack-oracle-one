@@ -65,3 +65,9 @@
     - [Validando os dados do usuário](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/5-javascript/2-variaveis-e-operadores/ex01-validando-dados-usuario/index.html)
   - Arrays, loop e estilos
     - [Melhorando a visualização do erro](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/5-javascript/3-arrays-loop-estilos/ex01-melhorando-visualizacao-erro/index.html)
+  - Eventos, Formulários e Criando Elementos
+    - [Adicionando um paciente na tabela](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/5-javascript/4-eventos-formularios-criando-elementos/ex01-adicionando-paciente-tabela/index.html)
+  - Boas Práticas com Javascript
+    - [Organizando o código em vários arquivos](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/5-javascript/5-boas-praticas-javascript/ex01-organizando-codigo-arquivos/index.html)
+  - Validação de Formulários
+    - [Validando o formulário](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/5-javascript/6-validacao-formularios/ex01-validando-formulario/index.html)
