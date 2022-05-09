@@ -1,4 +1,4 @@
-# Lógica de programação ⏳
+# Lógica de programação :heavy_check_mark:
 
 - [x] S1 - Lógica de programação I: Os primeiros programas com **Javascript** e **HTML**
   - Comece a programar hoje
@@ -58,7 +58,7 @@
 - [x] S4 - **HTML5** e **CSS3** parte 2: posicionamento, listas e navegação
   - Posicionamento, listas e navegação
     - [Página de salão de beleza - versão 2](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/4-html5-e-css3-parte-ii/ex01-pagina-salao-de-beleza/index.html) :haircut_woman: :star:
-- [ ] S5 - **Javascript**: programando na linguagem da web
+- [x] S5 - **Javascript**: programando na linguagem da web
   - Introdução
     - [O primeiro Javascript](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/5-javascript/1-introducao/ex01-primeiro-javascript/index.html)
   - Variáveis
@@ -71,3 +71,9 @@
     - [Organizando o código em vários arquivos](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/5-javascript/5-boas-praticas-javascript/ex01-organizando-codigo-arquivos/index.html)
   - Validação de Formulários
     - [Validando o formulário](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/5-javascript/6-validacao-formularios/ex01-validando-formulario/index.html)
+  - Remoção, Delegação e Animação
+    - [Removendo os pacientes](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/5-javascript/7-remocao-delegacao-animacao/ex01-removendo-pacientes/index.html)
+  - Filtrando uma tabela
+    - [Buscando pacientes](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/5-javascript/8-filtrando-tabela/ex01-buscando-pacientes/index.html)
+  - Buscando pacientes com AJAX
+    - [Conectando com servidor](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/5-javascript/9-buscando-pacientes-ajax/ex01-conectando-servidor/index.html) :green_apple: :star:
