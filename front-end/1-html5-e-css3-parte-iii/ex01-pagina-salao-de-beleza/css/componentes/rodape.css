@@ -1,0 +1,37 @@
+footer {
+    color: var(--marrom-transparente);
+    padding: 2em 1em 1em;
+}
+
+.logo-rodape {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.5em;
+}
+
+.logo-rodape-imagem {
+    width: var(--tamanho-logo-imagem);
+}
+
+.logo-rodape-imagem img {
+    opacity: 0.5;
+    width: 100%;
+}
+
+.logo-rodape-titulo {
+    font-family: 'Spectral SC', serif;
+    font-size: var(--tamanho-titulo-principal);
+    font-weight: normal;
+}
+
+.logo-rodape-subtitulo {
+    bottom: 0.5em;
+    font-size: var(--tamanho-logo-subtitulo);
+    padding-left: 0.5em;
+    position: relative;
+}
+
+.copyright {
+    text-align: center;
+}
