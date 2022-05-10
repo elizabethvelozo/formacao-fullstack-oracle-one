@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
+    <title>Contato | Caracol &bull; Studio de Beleza</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="../css/reset.css">
+    <link rel="stylesheet" href="../css/principal.css">
+    <link rel="stylesheet" href="../css/layout/contato.css">
+
+    <!-- Fontes -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Spectral+SC:wght@300&family=Work+Sans&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <div class="cabecalho">
+            <div class="logo">
+                <div class="logo-imagem">
+                    <img src="../imagens/caracol-minimalista.png" alt="Mulher cacheada">
+                </div>
+                <div class="logo-texto">
+                    <h1>Caracol</h1>
+                    <p>Studio de Beleza</p>
+                </div>
+            </div>
+            <nav>
+                <a href="../index.html">
+                    <li>Página Inicial</li>
+                </a>
+                <a href="servicos.html">
+                    <li>Serviços</li>
+                </a>
+                <a href="contato.html">
+                    <li>Contato</li>
+                </a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+       <form action="#">
+           <h2>Fale Conosco</h2>
+
+           <fieldset name="infos">
+               <label for="nome-sobrenome">Nome e sobrenome
+                   <input type="text" name="nome-sobrenome" id="nome-sobrenome" required>
+               </label>
+               <label for="email">E-mail
+                   <input type="email" name="email" id="email" required placeholder="loremaipsum@email.com">
+               </label>
+               <label for="telefone"> Telefone
+                   <input type="tel" name="telefone" id="telefone" required placeholder="(99) 99999-9999">
+               </label>
+           </fieldset>
+
+           <fieldset name="mensagem">
+               <label for="mensagem">Mensagem
+                   <textarea name="mensagem" id="mensagem" cols="30" rows="10" required></textarea>
+                </label>
+           </fieldset>
+
+           <fieldset name="retorno">
+               <legend>Como prefere o nosso contato?</legend>
+                <div class="radio">
+                    <label for="email-radio">
+                        <input type="radio" name="contato" id="email-radio" value="email"> Email
+                    </label>
+                    <label for="telefone-radio">
+                        <input type="radio" name="contato" id="telefone-radio" value="telefone"> Telefone
+                    </label>
+                    <label for="whatsapp-radio">
+                        <input type="radio" name="contato" id="whatsapp-radio" value="whatsapp" checked> Whatsapp
+                    </label>
+                </div>
+           </fieldset>
+
+           <fieldset name="horario">
+               <legend>Qual horário prefere ser atendido?</legend>
+               <select name="horario" id="horario">
+                   <option value="manha">Manhã</option>
+                   <option value="tarde">Tarde</option>
+                   <option value="noite">Noite</option>
+               </select>
+           </fieldset>
+
+           <fieldset name="novidades">
+               <label for="novidades">
+                   <input type="checkbox" name="novidades" id="novidades" checked> Gostaria de receber nossas novidades por e-mail?
+                </label>
+           </fieldset>
+
+           <button type="submit">Enviar</button>
+       </form>
+
+       <table>
+           <thead>
+               <tr>
+                   <th>Dia</th>
+                   <th>Horário</th>
+               </tr>
+           </thead>
+           <tbody>
+                <tr>
+                    <td>Segunda</td>
+                    <td>8 - 20h</td>
+                </tr>
+                <tr>
+                    <td>Quarta</td>
+                    <td>8 - 20h</td>
+                </tr>
+                <tr>
+                    <td>Sexta</td>
+                    <td>8 - 20h</td>
+                </tr>
+           </tbody>
+       </table>
+    </main>
+
+    <footer>
+        <div class="logo-rodape">
+            <div class="logo-rodape-imagem">
+                <img src="../imagens/caracol-minimalista-rodape.png" alt="Mulher cacheada">
+            </div>
+            <div class="logo-rodape-texto">
+                <p class="logo-rodape-titulo">Caracol</p>
+                <p class="logo-rodape-subtitulo">Studio de Beleza</p>
+            </div>
+        </div>
+        <p class="copyright">Elizabeth Velozo &copy; 2022</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,76 @@
+@import url("../componentes/cabecalho.css");
+@import url("../componentes/rodape.css");
+
+main {
+    border-block: 17px solid var(--marrom-transparente);
+}
+
+.servicos {
+    display: grid;
+    gap: 7vh;
+    grid-template-columns: 17em;
+    grid-template-rows: repeat(6, 25em);
+    padding-block: 3.5vh;
+    padding-inline: 7.5vw;
+}
+
+.servicos li {
+    display: grid;
+    justify-items: center;
+    z-index: 2;
+}
+
+.servicos__texto {
+    background-color: white;
+    border: 1.5px solid var(--marrom-transparente);
+    border-radius: 5px;
+    bottom: 7em;
+    padding-top: 8em;
+    padding-inline: 1.5em;
+    position: relative;
+    text-align: center;
+    z-index: 1;
+}
+
+.servicos__texto p {
+    margin-block: 1em;
+}
+
+.servicos__texto p:last-of-type {
+    font-size: var(--tamanho-titulo-terciario);
+
+}
+
+.servicos__imagem {
+    width: 13em;
+    z-index: 2;
+}
+
+.servicos__imagem img {
+    border-radius: 50%;
+    width: 100%;
+}
+
+/* BREAKPOINT TABLET */
+@media screen and (min-width: 690px) {
+    .servicos {
+        grid-template-columns: repeat(2, 17em);
+        grid-template-rows: repeat(2, 25em);
+    }
+}
+
+/* BREAKPOINT DESKTOP */
+@media screen and (min-width: 1100px) {
+    .servicos {
+        grid-template-columns: repeat(3, 17em);
+    }
+
+    .servicos li:hover {
+        transform: scale(1.05);
+        transition: transform 0.3s ease-in-out;
+    }
+
+    .servicos__texto {
+        border-width: 1.5px;
+    }
+}

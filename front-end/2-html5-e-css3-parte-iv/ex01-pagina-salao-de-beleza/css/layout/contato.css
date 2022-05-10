@@ -1,0 +1,78 @@
+@import url("../componentes/cabecalho.css");
+@import url("../componentes/rodape.css");
+
+main {
+    border-block: 17px solid var(--marrom-transparente);
+    padding: 2.5em 1em;
+}
+
+/* FORM */
+form, fieldset {
+    display: grid;
+    gap: 1em;
+}
+
+legend {
+    margin-bottom: 0.3em;
+}
+
+label:not(.radio > label, [for="novidades"]), .radio {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15em;
+}
+
+[name="infos"] input, select, th, td, button {
+    font-size: inherit;
+    padding: 0.3em;
+}
+
+button {
+    background-color: var(--roxo);
+    border: none;
+    color: var(--branco);
+    cursor: pointer;
+    font-weight: bolder;
+    padding: 0.5em;
+}
+
+button:hover {
+    background-color: var(--roxo-escuro);
+    transition: background 1s;
+}
+/* FIM DA FORM */
+
+/* TABLE */
+table {
+    margin-top: 15%;
+    text-align: center;
+    width: 100%;
+}
+
+th {
+    color: var(--marrom);
+    font-weight: bold;
+}
+
+th, td {
+    border: 1px solid var(--marrom-transparente);
+}
+/* FIM DA TABLE */
+
+/* BREAKPOINT TABLET */
+@media screen and (min-width: 690px) {
+    main {
+        padding-inline: 17vw;
+    }
+
+    table {
+        margin-top: 7%;
+    }
+}
+
+/* BREAKPOINT TABLET */
+@media screen and (min-width: 690px) {
+    main {
+        padding-inline: 25vw;
+    }
+}
