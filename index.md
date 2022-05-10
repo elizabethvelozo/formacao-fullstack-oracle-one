@@ -16,10 +16,10 @@ Atividades da Formação Oracle One - Alura, desenvolvidas por [mim](https://www
 - [Jogo de tiro ao alvo](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/14-nosso-primeiro-jogo/ex01-implemente-primeiro-jogo/index.html)
 - [Criador de Desenho](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/14-nosso-primeiro-jogo/ex02-desenhe-obras-arte/index.html)
 
-## Front-end ⏳
+## [Front-end](https://github.com/elizabethvelozo/formacao-fullstack-oracle-one/tree/main/front-end) ⏳
 
-- [ ] S6 - HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas
-- [ ] S6 - HTML5 e CSS3 parte 4: avançando no CSS
+- [x] S6 - HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas
+- [x] S6 - HTML5 e CSS3 parte 4: avançando no CSS
 - [ ] S7 - jQuery: domine a biblioteca mais popular do mercado parte 1
 - [ ] S7 - jQuery: avance na biblioteca mais popular do mercado parte 2
 - [ ] S8 - Layouts Responsivos: trabalhando com layouts mobile
