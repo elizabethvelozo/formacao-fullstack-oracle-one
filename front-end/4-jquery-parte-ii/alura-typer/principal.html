@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>aluraTyper.</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/libs/materialize.min.css">
+    <link rel="stylesheet" href="css/libs/google-fonts.css">
+    <link rel="stylesheet" href="css/libs/selectize.default.css">
+    <link rel="stylesheet" href="css/libs/tooltipster.bundle.min.css">
+    <link rel="stylesheet" href="css/estilos.css">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <header class="center">
+            <h1>aluraTyper.</h1>
+        </header>
+
+        <main class="principal center">
+            <p class="frase">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius neque blanditiis alias. Facilis nemo architecto, voluptatum voluptatibus quidem harum reprehenderit odit quos, cupiditate provident accusamus, error ea animi vel enim.</p>
+
+            <!-- Elementos ocultos inicialmente -->
+            <div class="img-carregamento">
+                <img src="img/spinner.gif" alt="Gif de carregamento">
+            </div>
+
+            <p id="mensagem-erro">Ocorreu um erro ao tentar se conectar com o servidor. Por favor, tente novamente.</p>
+            <!-- -->
+
+            <ul class="infos">
+                <li>
+                    <i class="small material-icons">description</i>
+                    <span id="palavras">0</span> palavras
+                </li>
+                <li>
+                    <i class="small material-icons">query_builder</i>
+                    <span id="segundos">30</span> segundos
+                </li>
+            </ul>
+
+            <label for="campo-digitacao">
+                <textarea name="campo-digitacao" id="campo-digitacao" cols="30" rows="10" placeholder="Copie a frase acima o mais rápido que puder!"></textarea>
+            </label>
+
+            <ul class="botoes">
+                <li>
+                    <button id="botao-reiniciar" class="botao botao-habilitado">
+                        <i class="material-icons">restore</i> Reiniciar
+                    </button>
+                </li>
+                <li>
+                    <button id="botao-placar" class="botao botao-habilitado">
+                        <i class="material-icons">assignment</i>
+                    </button>
+                </li>
+                <li>
+                    <button id="botao-frase" class="botao botao-habilitado">
+                        <i class="material-icons">shuffle</i>
+                    </button>
+                </li>
+                <li>
+                    <button id="botao-frase-id" class="botao botao-habilitado">
+                        <i class="material-icons">repeat_one</i>
+                    </button>
+                </li>
+                <li>
+                    <input type="number" name="frase-id" id="frase-id" placeholder="0-9">
+                </li>
+                <li>
+                    <select name="select-usuario" id="select-usuario">
+                        <option value="Elizabeth">Elizabeth</option>
+                        <option value="Olívia">Olívia</option>
+                        <option value="Priscila">Priscila</option>
+                    </select>
+                </li>
+                <li>
+                    <button id="botao-sincronizacao" class="botao botao-habilitado tooltip" title="Sincronizado com sucesso!">
+                        <i class="material-icons">swap_vert</i>
+                    </button>
+                </li>
+            </ul>
+
+            <ul class="infos">
+                <li><span id="cont-caracteres">0</span> caracteres</li>
+                <li><span id="cont-palavras">0</span> palavras</li>
+            </ul>
+
+            <section class="placar">
+                <h2>Placar</h2>
+                <table class="centered bordered">
+                    <thead>
+                        <tr>
+                            <th>Nome</th>
+                            <th>Nº de palavras</th>
+                            <th>Remover</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <td>Elizabeth</td>
+                        <td>10</td>
+                        <td><i class="small material-icons botao-remover">delete</i></td>
+                    </tbody>
+                </table>
+            </section>
+        </main>
+    </div>
+
+    <!-- JS -->
+    <script src="js/jquery.js"></script>
+    <script src="js/principal.js"></script>
+    <script src="js/placar.js"></script>
+    <script src="js/frase.js"></script>
+    <script src="js/selectize.js"></script>
+    <script src="js/tooltipster.bundle.min.js"></script>
+</body>
+</html>
