@@ -2,7 +2,7 @@
 
 Atividades da Formação Oracle One - Alura, desenvolvidas por [mim](https://www.linkedin.com/in/elizabethvelozo) durante minha jornada no programa. 🎯
 
-## [Lógica de Programação](https://github.com/elizabethvelozo/formacao-fullstack-oracle-one/tree/main/logica-de-programacao) :heavy_check_mark:
+## [Lógica de Programação](https://github.com/elizabethvelozo/formacao-fullstack-oracle-one/tree/main/logica-de-programacao) ✔️
 
 - [x] S1 - Lógica de programação I: Os primeiros programas com Javascript e HTML
 - [x] S2 - Lógica de programação II: pratique com desenhos, animações e um jogo
@@ -10,7 +10,7 @@ Atividades da Formação Oracle One - Alura, desenvolvidas por [mim](https://www
 - [x] S4 - HTML5 e CSS3 parte 2: posicionamento, listas e navegação
 - [x] S5 - Javascript: programando na linguagem da web
   
-#### :mortar_board: Projetos:
+#### 🎓 Projetos:
 - [Tathi Nutricionista](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/5-javascript/9-buscando-pacientes-ajax/ex01-conectando-servidor/index.html)
 - [Caracol • Studio de Beleza](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/4-html5-e-css3-parte-ii/ex01-pagina-salao-de-beleza/paginas/servicos.html)
 - [Jogo de tiro ao alvo](https://elizabethvelozo.github.io/formacao-fullstack-oracle-one/logica-de-programacao/2-logica-de-programacao-ii/14-nosso-primeiro-jogo/ex01-implemente-primeiro-jogo/index.html)
@@ -21,7 +21,7 @@ Atividades da Formação Oracle One - Alura, desenvolvidas por [mim](https://www
 - [x] S6 - HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas
 - [x] S6 - HTML5 e CSS3 parte 4: avançando no CSS
 - [x] S7 - jQuery: domine a biblioteca mais popular do mercado parte 1
-- [ ] S7 - jQuery: avance na biblioteca mais popular do mercado parte 2
+- [x] S7 - jQuery: avance na biblioteca mais popular do mercado parte 2
 - [ ] S8 - Layouts Responsivos: trabalhando com layouts mobile
 
 ## Java 🔜
